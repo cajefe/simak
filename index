@@ -1,0 +1,843 @@
+<html lang="ru-RU"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simak shop</title>
+<meta name="robots" content="max-image-preview:large">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/simak-maria.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://simak-maria.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="brands-styles-css" href="https://simak-maria.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=10.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="myyoga-style-css" href="https://simak-maria.com/wp-content/themes/my-yoga-theme/style.css?ver=6.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="main-style-css" href="https://simak-maria.com/wp-content/themes/my-yoga-theme/main-style.css?ver=6.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="yoga-style-css" href="https://simak-maria.com/wp-content/themes/my-yoga-theme/yoga.css?ver=6.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="fkcart-style-css" href="https://simak-maria.com/wp-content/plugins/cart-for-woocommerce/assets/css/style.min.css?ver=1.9.1" type="text/css" media="all">
+<style id="fkcart-style-inline-css" type="text/css">
+
+		:root {
+			--fkcart-primary-bg-color: #f5f6f7;
+			--fkcart-primary-font-color: #19191a;
+			--fkcart-primary-text-color: #f5f6f7;
+			--fkcart-secondary-text-color: #cacaca;
+			--fkcart-strike-through-price-text-color: #E15334;
+			--fkcart-saving-text-price-color: #5BA238;
+			--fkcart-coupon-text-price-color: #5BA238;
+			--fkcart-accent-color: #0068b2;
+			--fkcart-border-color: #c3c3c3;
+			--fkcart-error-color: #B00C0C;
+			--fkcart-error-bg-color: #FFF0F0;
+			--fkcart-reward-color: #f1b51e;
+			
+			--fkcart-progress-bar-icon-color: #353030;
+			--fkcart-progress-bar-active-icon-color: #ffffff;
+			--fkcart-progress-bar-bg-color-active-icon: #2DA815;
+			--fkcart-progress-bar-active-color: #2DA815;
+			
+			--fkcart-bg-color: #19191a;
+			--fkcart-slider-desktop-width: 480px;
+			--fkcart-slider-mobile-width: 100%;
+			--fkcart-animation-duration: 0.4s;
+			--fkcart-panel-color:#f9f9ff;
+			--fkcart-color-black: #000000;
+			--fkcart-success-color: #5BA238;
+			--fkcart-success-bg-color: #EFF6EB;
+			--fkcart-toggle-bg-color: #d6d6d6;
+			--fkcart-toggle-icon-color: #919191;
+			--fkcart-toggle-count-bg-color: #f2f2f2;
+			--fkcart-toggle-count-font-color: #bfbfbf;
+			--fkcart-progressbar-active-color: #0170b9;
+			
+			--fkcart-toggle-border-radius: 50%;
+			--fkcart-toggle-size: 36;
+			--fkcart-border-radius: 5px; 
+			--fkcart-menu-icon-size: 35px;
+			--fkcart-menu-text-size: 16px;
+		}#fkcart-modal * {font-family: Geologica}
+</style>
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p role="alert">Этот товар недоступен. Пожалуйста, выберите другую комбинацию.</p>
+</script>
+<script type="text/javascript" src="https://simak-maria.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://simak-maria.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.0.4" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u043a\u043e\u0440\u0437\u0438\u043d\u044b","cart_url":"https:\/\/simak-maria.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.0.4" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.0.4" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_password_show":"\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u0430\u0440\u043e\u043b\u044c","i18n_password_hide":"\u0421\u043a\u0440\u044b\u0442\u044c \u043f\u0430\u0440\u043e\u043b\u044c"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.0.4" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="WCPAY_ASSETS-js-extra">
+/* <![CDATA[ */
+var wcpayAssets = {"url":"https:\/\/simak-maria.com\/wp-content\/plugins\/woocommerce-payments\/dist\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="wc-single-product-js-extra">
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u043e\u0446\u0435\u043d\u043a\u0443","i18n_rating_options":["1 \u0438\u0437 5 \u0437\u0432\u0451\u0437\u0434","2 \u0438\u0437 5 \u0437\u0432\u0451\u0437\u0434","3 \u0438\u0437 5 \u0437\u0432\u0451\u0437\u0434","4 \u0438\u0437 5 \u0437\u0432\u0451\u0437\u0434","5 \u0438\u0437 5 \u0437\u0432\u0451\u0437\u0434"],"i18n_product_gallery_trigger_text":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u0433\u0430\u043b\u0435\u0440\u0435\u0438 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439 \u0432 \u043f\u043e\u043b\u043d\u043e\u044d\u043a\u0440\u0430\u043d\u043d\u043e\u043c \u0440\u0435\u0436\u0438\u043c\u0435","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"","zoom_options":[],"photoswipe_enabled":"","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=10.0.4" id="wc-single-product-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://simak-maria.com/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://simak-maria.com/wp-includes/js/wp-util.min.js?ver=6.8.2" id="wp-util-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"\u0416\u0430\u043b\u044c, \u043d\u043e \u0442\u043e\u0432\u0430\u0440\u043e\u0432, \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0432\u0430\u0448\u0435\u043c\u0443 \u0432\u044b\u0431\u043e\u0440\u0443, \u043d\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d\u043e. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0443\u044e \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u044e.","i18n_make_a_selection_text":"\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043e\u043f\u0446\u0438\u0438 \u0442\u043e\u0432\u0430\u0440\u0430 \u043f\u0435\u0440\u0435\u0434 \u0435\u0433\u043e \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0432 \u0432\u0430\u0448\u0443 \u043a\u043e\u0440\u0437\u0438\u043d\u0443.","i18n_unavailable_text":"\u042d\u0442\u043e\u0442 \u0442\u043e\u0432\u0430\u0440 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0443\u044e \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u044e.","i18n_reset_alert_text":"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0432\u0430\u0448\u0435\u0433\u043e \u0432\u044b\u0431\u043e\u0440\u0430 \u0441\u0431\u0440\u043e\u0448\u0435\u043d\u044b. \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043e\u043f\u0446\u0438\u0438 \u0442\u043e\u0432\u0430\u0440\u0430, \u043f\u0435\u0440\u0435\u0434 \u0442\u0435\u043c \u043a\u0430\u043a \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0435\u0433\u043e \u0432 \u043a\u043e\u0440\u0437\u0438\u043d\u0443."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=10.0.4" id="wc-add-to-cart-variation-js" defer="defer" data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://simak-maria.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://simak-maria.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.8.2">
+<meta name="generator" content="WooCommerce 10.0.4">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	  <script>
+  const templateDir = "https://simak-maria.com/wp-content/themes/my-yoga-theme";
+</script>
+</head>
+<body class="home blog wp-theme-my-yoga-theme theme-my-yoga-theme woocommerce-js">
+
+
+<div id="preloader" style="opacity: 0; visibility: hidden;">
+  <div class="spinner"></div>
+</div>
+    
+   <div class="background-overlay">
+     <div class="video-background">
+  <video autoplay="" muted="" loop="" playsinline="">
+    <source src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/vid.mp4" type="video/mp4">
+    Ваш браузер не поддерживает видео.
+  </video>
+</div>
+    <nav class="navbar">
+      <div class="logo">
+        <img src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Logo.png" alt="SIMAK Logo">
+      </div>
+      <ul class="nav-links">
+        <li>
+          <a href="https://simak-maria.com"><span>Home</span></a>
+        </li>
+        <li>
+          <a href="https://simak-maria.com/about"><span>About +</span></a>
+          <ul class="dropdown white-li">
+            <li><a href="https://simak-maria.com/about#about-me">About</a></li>
+            <li><a href="https://simak-maria.com/about#mission">Mission</a></li>
+            <li><a href="https://simak-maria.com/about#vision">Vision</a></li>
+            <li><a href="https://simak-maria.com/about#reviews">Reviews</a></li>  
+          </ul>
+        </li>
+        <li>
+          <a href="https://simak-maria.com/yoga"><span>Yoga +</span></a>
+          <ul class="dropdown white-li">
+            <li><a href="https://simak-maria.com/yoga#online">Online</a></li>
+            <li><a href="https://simak-maria.com/yoga#course">Course</a></li>
+            <li><a href="https://simak-maria.com/yoga#consultation">Consultation</a></li>  
+          </ul>
+        </li>
+        <li>
+          <a href="https://simak-maria.com/ayurveda"><span>Ayurveda +</span></a>
+          <ul class="dropdown white-li">
+            <li><a href="https://simak-maria.com/ayurveda#what-is-ayurveda">What is Ayurveda?</a></li>
+            <li><a href="https://simak-maria.com/ayurveda#dosha-test">Test for Dosha</a></li>
+            <li><a href="https://simak-maria.com/ayurveda#workshops">Workshops</a></li>
+          </ul>
+        </li>
+        <li><a href="https://simak-maria.com/bl-ev"><span>Blog &amp; Events</span></a></li>
+        <li><a href="https://simak-maria.com/shop"><span>Shop</span></a></li>
+        <li><a href="https://simak-maria.com/contact"><span>Contact</span></a></li>
+       
+      </ul>
+      <div class="burger-menu white-menu" id="burgerMenu">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+    </nav>
+    <div class="mobile-menu" id="mobileMenu">
+       <div class="menu-logo">
+    <img src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Logo.png" alt="SIMAK Logo">
+  </div>
+  <ul class="mobile-menu-list">
+    <li class="active"><a href="https://simak-maria.com"><span>Home</span></a></li>
+        <li><a href="https://simak-maria.com/about"><span>About</span></a></li>
+        <li><a href="https://simak-maria.com/yoga"><span>Yoga</span></a></li>
+        <li><a href="https://simak-maria.com/ayurveda"><span>Ayurveda</span></a></li>
+        <li><a href="https://simak-maria.com/bl-ev"><span>Blog &amp; Events</span></a></li>
+        <li><a href="https://simak-maria.com/shop"><span>Shop</span></a></li>
+        <li><a href="https://simak-maria.com/contact"><span>Contact</span></a></li>
+  </ul>
+  <div class="menu-footer">
+    <p>Simak Maria, 2025</p>
+  </div>
+</div>
+
+    <!-- Головний блок -->
+    
+    <div class="main">
+      <div class="main-text">
+        <h1>
+          yoga and  <br>
+          ayurveda <br>
+          for real<br>
+          modern life <br>
+          
+        </h1>
+      </div>
+
+      <div class="main-right">
+        
+        <a class="button-white" href="#yoga-ayurveda">Discover <p class="button-plus">+</p></a>
+      </div>
+    </div>
+  
+    
+  </div>
+      <div class="fullpage-container" id="fullpageContainer">
+
+  <!-- Yoga Section -->
+  <section class="section-hidden yoga-section active animate-on-scroll visible" id="yoga-ayurveda">
+    <div class="section-content">
+      
+      
+      <div class="text-content">
+        <div>
+          <h1 class="section-h1">Yoga</h1>
+        <h4>Move. Breathe.<br>Reconnect.</h4>
+        <p>
+          Explore a modern yoga practice grounded in tradition and psychology.<br>
+           -Live online classes<br>
+           -Pre-recorded courses<br>
+           -Krankenkasse-certified group courses<br>
+           -Rooftop &amp; outdoor yoga sessions<br>
+           -Guided by 500h YTT &amp; MSc Psychology<br><br>
+           Find strength, ease, and clarity on and off the mat.
+        </p>
+        </div>
+        <div>
+          <button class="button">Discover more <p class="button-plus" style="color: white;">+</p></button>
+        </div>
+        
+      </div>
+      <div class="image-content">
+        <div class="image-wrapper">
+          <img class="dark-img" src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Mask group (2).png" alt="Yoga Figure">
+        </div>
+      </div>
+      <div class="yoga-symbol">
+      <img src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/यो.svg" alt="Yoga Symbol">
+    </div>
+    <img class="hover-gradient-bg left" id="blueOverlay" src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Rectangle 112.png">
+    </div>
+  </section>
+
+  <!-- Ayurveda Section -->
+ <section class="section-hidden ayurveda-section animate-on-scroll visible" id="yoga-ayurveda">
+  <div class="section-content">
+
+    <div class="text-content">
+      <div>
+        <h1 class="section-h1">Ayurveda</h1>
+        <h4>Ancient wisdom<br>for daily balance.</h4>
+        <p>
+          Accessible Ayurvedic guidance for real life without the overwhelm.<br>
+           -Workshops &amp; online programs<br>
+           -Practical routines for stress, sleep &amp; digestion<br>
+           -Seasonal &amp; dosha-based guidance<br>
+           -Rooted in authentic teachings, adapted for modern life<br><br>
+           Discover the tools that bring balance.
+        </p>
+      </div>
+      <div>
+        <button class="button">Discover more <p class="button-plus" style="color: white;">+</p></button>
+      </div>
+    </div>
+
+    <div class="image-content">
+      <div class="image-wrapper-ayur">
+        <img class="dark-img" src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Mask group (4).png" alt="Ayurveda Figure">
+      </div>
+    </div>
+
+    <div class="ayur-symbol">
+      <img src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/आ.svg" alt="Ayurveda Symbol">
+    </div>
+
+    <img class="hover-gradient-bg left" id="blueOverlay" src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Rectangle 113.png">
+  </div>
+</section>
+
+  <!-- Dots Navigation -->
+  <div class="section-controls">
+    <span class="dot active" data-index="0"></span>
+    <span class="dot" data-index="1"></span>
+  </div>
+</div>
+ <section class="section about-section animate-on-scroll visible">
+  <h1 class="section-h1 animate-item visible">About</h1>
+
+  <div class="gallery-flex">
+
+    <div class="gallery-row"> 
+      <div class="gallery-item animate-item visible"> 
+        <img src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Rectangle 116.png" alt="Who am I?">
+        <div class="gallery-text">
+          <h3>Who am I?</h3>
+          <p>I live the balance I teach.<br> Corporate Director by day,<br> Yoga &amp; Ayurveda teacher by heart.<br> </p>
+        </div>
+      </div>
+
+      <div class="gallery-item animate-item delay-1 visible"> 
+        <img src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Rectangle 115 (1).png" alt="Mission">
+        <div class="gallery-text">
+        <h3>Mission</h3>
+        <p>I make Yoga and Ayurveda simple,<br> practical, and powerful for everyday life.</p>
+        </div>  
+      </div>
+
+      <div class="gallery-item animate-item delay-2 visible"> 
+        <img src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Rectangle 117.png" alt="Vision">
+        <div class="gallery-text">
+        <h3>Vision</h3>
+        <p>Where tradition and ambition coexist.<br> Well-being that fits your real life—clarity,<br> balance, and presence in a busy world. </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="gallery-row">
+      <div class="gallery-item wide animate-item delay-1 visible">
+        <img src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Rectangle 114.png" alt="Reviews">
+        <div class="gallery-text">
+        <h3>My way of yoga</h3>
+        <p>Forem ipsum dolor sit amet,<br> consectetur adipiscing elit.<br> Etiam eu turpis molestie, </p>     
+        </div>
+      </div>
+
+      <div class="gallery-item wide animate-item delay-2 visible">
+        <img src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Rectangle 115.jpg" alt="Yoga Pose">
+        <div class="gallery-text">
+        <h3>Reviews </h3>
+        <p>What others say after working with me.</p>     
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="about-button-wrapper animate-item visible">
+  <a class="button" href="https://simak-maria.com/about#about-me">Go to page <p class="button-plus">+</p></a>
+</div>
+  
+</section> 
+ 
+<section class="section blog-events animate-on-scroll visible">
+  <div class="blog-events-img">
+    <img src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/ब्ल.svg" class="char-symbol-large" alt="">
+  </div>
+
+  <!-- BLOG -->
+  <div class="block blog-block" id="blogBlock">
+    <h1 class="section-h1 animate-item visible">Blog </h1>
+    <h4>Yoga &amp; Ayurveda<br> that actually help.</h4>
+    <p>
+      Quick tools, timeless rituals, and everyday advice from real life, grounded in ancient wisdom,<br>
+      tested in corporate reality.<br>
+      Simple posts to boost your energy, focus, sleep, digestion, and peace of mind.
+    </p>
+
+    <!-- mobile-card (если есть посты — берём первый; иначе — твоя заглушка) -->
+                <div class="mobile-card card expanded">
+        <a href="https://simak-maria.com/blog/blog-post-2/">
+          <img src="https://simak-maria.com/wp-content/uploads/2025/07/Rectangle-115-1.png" alt="Blog post" class="expanded-img">
+        </a>
+        <div class="content">
+          <h3 class="expanded-title">Blog post</h3>
+          <p class="date">08.08.25</p>
+          <div class="content-text">
+            <p class="text">sasasXFCQEWDSA</p>
+            <a class="arrow" href="https://simak-maria.com/blog/blog-post-2/">›</a>
+          </div>
+        </div>
+      </div>
+    
+    <div class="card-container animate-item visible">
+                                  <div class="card vertical expanded" data-id="0" data-group="blog" data-post-id="251" data-img="https://simak-maria.com/wp-content/uploads/2025/07/Rectangle-115-1.png" data-title="Blog post" data-date="08.08.25" data-text="sasasXFCQEWDSA" data-link="https://simak-maria.com/blog/blog-post-2/">
+    <div class="card expanded">
+      <a href="https://simak-maria.com/blog/blog-post-2/">
+        <img src="https://simak-maria.com/wp-content/uploads/2025/07/Rectangle-115-1.png" alt="Blog post" class="expanded-img">
+      </a>
+      <div class="content">
+        <h3 class="expanded-title">Blog post</h3>
+        <p class="date">08.08.25</p>
+        <div class="content-text">
+          <p class="text">sasasXFCQEWDSA</p>
+          <a class="arrow" href="https://simak-maria.com/blog/blog-post-2/">›</a>
+        </div>
+      </div>
+    </div>
+  </div>
+                              <div class="card vertical animate-item delay-1 visible" data-id="1" data-group="blog" data-post-id="250" data-img="https://simak-maria.com/wp-content/uploads/2025/07/sliding-gallery-2.png" data-title="Ayur" data-date="08.08.25" data-text="saewqweqewq" data-link="https://simak-maria.com/blog/ayur/">
+      <div class="vertical-text">
+        <p class="date">08.08.25</p>
+        <h3>Ayur</h3>
+      </div>
+      <button class="plus" onclick="expandCard(1)">+</button>
+    </div>
+                              <div class="card vertical animate-item delay-2 visible" data-id="2" data-group="blog" data-post-id="249" data-img="https://simak-maria.com/wp-content/uploads/2025/07/Rectangle-115-1.png" data-title="Blog post" data-date="08.08.25" data-text="Here some info" data-link="https://simak-maria.com/blog/blog-post/">
+      <div class="vertical-text">
+        <p class="date">08.08.25</p>
+        <h3>Blog post</h3>
+      </div>
+      <button class="plus" onclick="expandCard(2)">+</button>
+    </div>
+                    </div>
+
+    <a class="button animate-item visible" href="https://simak-maria.com/bl-ev#blog-event-section">
+      Read the blog <p class="button-plus" style="color: white;">+</p>
+    </a>
+  </div>
+
+  <!-- EVENTS -->
+  <div class="block events-block" id="eventsBlock">
+    <h1 class="section-h1-right">Events</h1>
+    <h4>Join me live<br> online or in person.</h4>
+    <p>
+      Here’s where you’ll find every <br>upcoming yoga class, rooftop session,<br>
+      Krankenkasse course, or Ayurveda workshop.<br>
+      Events updated regularly.<br> Some spots fill up fast.
+    </p>
+
+    <!-- mobile-card для событий -->
+                <div class="mobile-card card expanded">
+        <a href="https://simak-maria.com/event/event-test/">
+          <img src="https://simak-maria.com/wp-content/uploads/2025/07/sliding-gallery-2.png" alt="Event test" class="expanded-img">
+        </a>
+        <div class="content">
+          <h3 class="expanded-title">Event test</h3>
+          <p class="date">08.08.25</p>
+          <div class="content-text">
+            <p class="text">dssdsaewqsda</p>
+            <a class="arrow" href="https://simak-maria.com/event/event-test/">›</a>
+          </div>
+        </div>
+      </div>
+    
+    <div class="card-container animate-item visible">
+                        <div class="card vertical animate-item delay-2 visible" data-id="3" data-group="event" data-post-id="254" data-img="https://simak-maria.com/wp-content/uploads/2025/07/sliding-gallery-2.png" data-title="Event test" data-date="08.08.25" data-text="dssdsaewqsda" data-link="https://simak-maria.com/event/event-test/">
+      <div class="vertical-text">
+        <p class="date">08.08.25</p>
+        <h3>Event test</h3>
+      </div>
+      <button class="plus" onclick="expandCard(3)">+</button>
+    </div>
+                  <div class="card vertical animate-item delay-2 visible" data-id="4" data-group="event" data-post-id="253" data-img="https://simak-maria.com/wp-content/uploads/2025/07/sliding-gallery-4.png" data-title="Event title" data-date="08.08.25" data-text="some info for test" data-link="https://simak-maria.com/event/event-title/">
+      <div class="vertical-text">
+        <p class="date">08.08.25</p>
+        <h3>Event title</h3>
+      </div>
+      <button class="plus" onclick="expandCard(4)">+</button>
+    </div>
+                  <div class="card vertical animate-item delay-3 expanded visible" data-id="5" data-group="event" data-post-id="252" data-img="https://simak-maria.com/wp-content/uploads/2025/07/Rectangle-138-2.png" data-title="EVENT" data-date="08.08.25" data-text="DDSADSAZCZC" data-link="https://simak-maria.com/event/event/">
+    <div class="card expanded">
+      <a href="https://simak-maria.com/event/event/">
+        <img src="https://simak-maria.com/wp-content/uploads/2025/07/Rectangle-138-2.png" alt="EVENT" class="expanded-img">
+      </a>
+      <div class="content">
+        <h3 class="expanded-title">EVENT</h3>
+        <p class="date">08.08.25</p>
+        <div class="content-text">
+          <p class="text">DDSADSAZCZC</p>
+          <a class="arrow" href="https://simak-maria.com/event/event/">›</a>
+        </div>
+      </div>
+    </div>
+  </div>
+                  </div>
+
+    <a class="button animate-item visible" href="https://simak-maria.com/bl-ev#blog-event-section">
+      See all events <p class="button-plus">+</p>
+    </a>
+  </div>
+</section>
+  <section class="section faq-section animate-on-scroll visible">
+    
+  <h1 class="section-h1 animate-item visible">FAQ</h1>
+  <p class="faq-subtitle animate-item visible">Answers to most frequently<br>asked questions</p>
+
+  <div class="faq-columns ">
+    <div class="faq-column">
+      <div class="faq-item animate-item visible" onclick="toggleFaq(0)">
+        <div class="faq-question">
+          <span>I'm a beginner. Can I still join your yoga classes?</span>
+          <button class="faq-toggle">+</button>
+        </div>
+        <div class="faq-answer">Absolutely. My 8-class pre-recorded Yoga Course is designed for real people, and walks you step-by-step through both the physical practice and the philosophy behind yoga.
+Live classes are also beginner-friendly, with variations and guidance tailored to each student. Intermediate students are welcome too. My teaching meets you where you are.</div>
+      </div>
+      <div class="faq-item animate-item delay-1 visible" onclick="toggleFaq(1)">
+        <div class="faq-question">
+          <span>Do your yoga classes qualify for Krankenkasse reimbursement?</span>
+          <button class="faq-toggle">+</button>
+        </div>
+        <div class="faq-answer">Yes, selected courses are certified and eligible for reimbursement by German health insurance (Zentrale Prüfstelle Prävention). Check the class description or contact me to confirm.</div>
+      </div>
+      <div class="faq-item animate-item delay-2 visible" onclick="toggleFaq(2)">
+        <div class="faq-question">
+          <span>What kind of yoga do you teach?</span>
+          <button class="faq-toggle">+</button>
+        </div>
+        <div class="faq-answer"> I teach a blend of Hatha, Vinyasa, Ashtanga, and Yin yoga. Most online classes integrate these styles to balance strength, flow, and relaxation. If you’re looking for a specific style or want a tailored private or group class, feel free to contact me.
+</div>
+      </div>
+      <div class="faq-item animate-item delay-3 visible" onclick="toggleFaq(3)">
+        <div class="faq-question">
+          <span>Are your classes live, online, or in-person?</span>
+          <button class="faq-toggle">+</button>
+        </div>
+        <div class="faq-answer">All of the above. I offer pre-recorded video courses, live Zoom classes, and occasional rooftop or outdoor sessions in Munich. Check the events section for upcoming in-person gatherings.</div>
+      </div>
+    </div>
+
+    <div class="faq-column">
+      <div class="faq-item animate-item visible" onclick="toggleFaq(4)">
+        <div class="faq-question">
+          <span>What’s included in your Ayurveda workshops?</span>
+          <button class="faq-toggle">+</button>
+        </div>
+        <div class="faq-answer">My signature Ayurveda workshop introduces the foundations of Ayurveda, helps you discover your dosha, and shows you how to bring balance with simple daily routines. I also offer deeper workshops focused on each dosha, with practical guidance on food, lifestyle, and seasonal care.</div>
+      </div>
+      <div class="faq-item animate-item delay-1 visible" onclick="toggleFaq(5)">
+        <div class="faq-question">
+          <span>Do you offer personal Ayurveda consultations?</span>
+          <button class="faq-toggle">+</button>
+        </div>
+        <div class="faq-answer">Not at this time. I currently focus on group workshops and educational content. One-on-one sessions will be available in the future.</div>
+      </div>
+      <div class="faq-item animate-item delay-2 visible" onclick="toggleFaq(6)">
+        <div class="faq-question">
+          <span>I have a demanding job. Will this work for me?</span>
+          <button class="faq-toggle">+</button>
+        </div>
+        <div class="faq-answer">Yes. I designed this platform as a corporate director myself. Everything here is made for people with full calendars and high expectations.</div>
+      </div>
+      <div class="faq-item animate-item delay-3 visible" onclick="toggleFaq(7)">
+        <div class="faq-question">
+          <span>What languages do you offer your services in?</span>
+          <button class="faq-toggle">+</button>
+        </div>
+        <div class="faq-answer">Most of my content is in English to keep it globally accessible. I also speak German, Russian, and Ukrainian, so feel free to contact me in any of those languages if you need personal support.
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="faq-footer animate-item visible">
+    <h3>Didn’t find what you were looking for?</h3>
+    <a class="button" href="https://simak-maria.com/contact#contact-grid">Contact me <p class="button-plus" style="color: white;">+</p></a>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="footer-left animate-item visible">
+    <div>
+      <h4>Let’s stay in touch</h4>
+      <p>Get tips, tools, and event updates on yoga and Ayurveda — straight to your inbox. Simple, clear, helpful.</p>
+      <input type="email" placeholder="Enter your e-mail here">
+      <button class="button">Send <p class="button-plus">+</p></button>
+    </div>
+    <div class="footer-contacts animate-item visible">
+      <span>Simak Maria</span>
+      <span>+49 99 999 9999</span>
+      <span>Birketweg 37</span>
+      <span>simak.maria[at]outlook.com</span>
+    </div>
+  </div>
+  <div class="footer-right animate-item visible">
+    <div class="footer-brand"><img src="https://simak-maria.com/wp-content/themes/my-yoga-theme/img/Logo Blue_Olive(no BG) 1.svg " alt="Logo" style="width: 117px; height: 86px; "></div>
+    <div class="footer-text">
+     Yoga and Ayurveda for real modern life.<br>
+Simple tools. Real results. Modern guidance rooted in ancient wisdom — for balance, clarity, and strength in everyday life.
+
+
+    </div>
+    <div class="footer-links animate-item visible">
+  <ul>
+    <li class="main-link"><a href="https://simak-maria.com">Home</a></li>
+    <li><a href="https://simak-maria.com/about">About</a></li>
+    <li><a href="https://simak-maria.com/yoga">Yoga</a></li>
+    <li><a href="https://simak-maria.com/ayurveda">Ayurveda</a></li>
+    <li><a href="https://simak-maria.com/blog">Blog &amp; Events</a></li>
+  </ul>
+
+  <ul>
+    <li class="main-link"><a href="https://simak-maria.com/about">About</a></li>
+    <li><a href="https://simak-maria.com/about#about-me">About</a></li>
+    <li><a href="https://simak-maria.com/about#mission">Mission</a></li>
+    <li><a href="https://simak-maria.com/about#vision">Vision</a></li>
+    <li><a href="https://simak-maria.com/about#reviews">Reviews</a></li>
+  </ul>
+
+  <ul>
+    <li class="main-link"><a href="https://simak-maria.com/yoga">Yoga</a></li>
+    <li><a href="https://simak-maria.com/yoga#online">Online</a></li>
+    <li><a href="https://simak-maria.com/yoga#course">Course</a></li>
+    <li><a href="https://simak-maria.com/yoga#consultation">Consultation</a></li>
+  </ul>
+
+  <ul>
+    <li class="main-link"><a href="https://simak-maria.com/ayurveda">Ayurveda</a></li>
+    <li><a href="https://simak-maria.com/ayurveda#what-is-ayurveda">What is Ayurveda?</a></li>
+    <li><a href="https://simak-maria.com/ayurveda#dosha-test">Test for Dosha</a></li>
+    <li><a href="https://simak-maria.com/ayurveda#workshops">Workshops</a></li>
+  </ul>
+</div>
+
+<div class="footer-links footer-nav animate-item visible">
+  <span><a href="https://simak-maria.com/shop">Shop</a></span>
+  <span><a href="https://simak-maria.com/contact">Contact</a></span>
+  <span><a href="https://simak-maria.com/impressum">Impressum</a></span>
+  <span><a href="https://simak-maria.com/daten">Datenschutz</a></span>
+</div>
+    <div class="footer-bottom">circa 2025 by kramola.studio</div>
+  </div>
+</footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/my-yoga-theme\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel="stylesheet" id="wc-blocks-style-css" href="https://simak-maria.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.0.4" type="text/css" media="all">
+<script type="text/javascript" src="https://simak-maria.com/wp-content/themes/my-yoga-theme/js/fadeIn.js" id="fade-In-js"></script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/themes/my-yoga-theme/js/scriptyg.js" id="myyoga-script-js"></script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/themes/my-yoga-theme/js/about.js" id="about-script-js"></script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/themes/my-yoga-theme/js/script.js" id="script-js"></script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/themes/my-yoga-theme/js/ayurveda.js" id="ayurveda-js"></script>
+<script type="text/javascript" id="ajax-pagination-js-extra">
+/* <![CDATA[ */
+var myyoga_ajax = {"ajaxurl":"https:\/\/simak-maria.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/themes/my-yoga-theme/ajax-pagination.js" id="ajax-pagination-js"></script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.0.4" id="sourcebuster-js-js"></script>
+<script type="text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"https:\/\/simak-maria.com\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.0.4" id="wc-order-attribution-js"></script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/plugins/cart-for-woocommerce/assets/addon/embla-carousel.min.js?ver=1.9.1" id="fkcart-carousel-js"></script>
+<script type="text/javascript" id="fkcart-script-js-extra">
+/* <![CDATA[ */
+var fkcart_app_data = {"ajax_nonce":"4b7c338e34","is_preview":"","ajax_url":"https:\/\/simak-maria.com\/wp-admin\/admin-ajax.php","force_open_cart":"no","open_side_cart":"no","should_open_cart":"yes","is_cart":"","is_shop":"","is_single_product":"","need_extra_slide_cart_ajax":"no","ajax_add_to_cart":"no","wc_endpoints":{"fkcart_get_slide_cart":"\/?wc-ajax=fkcart_get_slide_cart","fkcart_add_item":"\/?wc-ajax=fkcart_add_item","fkcart_update_item":"\/?wc-ajax=fkcart_update_item","fkcart_remove_item":"\/?wc-ajax=fkcart_remove_item","fkcart_apply_coupon":"\/?wc-ajax=fkcart_apply_coupon","fkcart_remove_coupon":"\/?wc-ajax=fkcart_remove_coupon","fkcart_quick_view":"\/?wc-ajax=fkcart_quick_view","fkcart_update_attributes":"\/?wc-ajax=fkcart_update_attributes","fkcart_add_spl_addon":"\/?wc-ajax=fkcart_add_spl_addon","fkcart_remove_spl_addon":"\/?wc-ajax=fkcart_remove_spl_addon"},"update_side_cart_on_load":"no","trigger_slide_cart_class":[".cart-item .header-cart-link",".et-cart-info","#mini-cart .cart-head span.cart-icon",".site-header-cart .cart-click",".wcmenucart",".wd-header-cart"],"cart_hash_key":"fkcart_hash_9899c5111ab98fbe6fda0c0e0f93addf","fragment_name":"fkcart_fragments_9899c5111ab98fbe6fda0c0e0f93addf","locale":"ru_RU","smart_buttons_wrapper":{"dynamic_buttons":{"#fkcart_fkwcs_smart_button":"#fkcart_fkwcs_smart_button"},"no_conflict_buttons":["#fkcart_paypalpayments_smart_button","#fkcart_pymntpl_paypal_payments_smart_button","#fkcart_fkwcs_smart_button_gpay"]},"cookie_names":{"quantity":"fkcart_cart_qty","cart_total":"fkcart_cart_total"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://simak-maria.com/wp-content/plugins/cart-for-woocommerce/assets/js/cart.min.js?ver=1.9.1" id="fkcart-script-js"></script>
+            <div id="fkcart-modal" class="fkcart-modal" data-upsell-style="style3">
+                    <div class="fkcart-modal-container " data-direction="ltr" data-slider-pos="bottom-right" data-nonce="4b7c338e34">
+        <div class="fkcart-preview-ui has-zero-state" data-anim="400">
+            <!-- Header -->
+            <div class="fkcart-slider-header">
+				<div class="fkcart-slider-heading fkcart-panel">
+    <div class="fkcart-title">Cart</div>
+    <div class="fkcart-modal-close">
+		    <svg width="20" height="20" viewBox="0 0 24 24" class="fkcart-icon-close" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M4.1518 4.31359L4.22676 4.22676C4.50161 3.9519 4.93172 3.92691 5.2348 4.1518L5.32163 4.22676L12 10.9048L18.6784 4.22676C18.9807 3.92441 19.4709 3.92441 19.7732 4.22676C20.0756 4.5291 20.0756 5.01929 19.7732 5.32163L13.0952 12L19.7732 18.6784C20.0481 18.9532 20.0731 19.3833 19.8482 19.6864L19.7732 19.7732C19.4984 20.0481 19.0683 20.0731 18.7652 19.8482L18.6784 19.7732L12 13.0952L5.32163 19.7732C5.01929 20.0756 4.5291 20.0756 4.22676 19.7732C3.92441 19.4709 3.92441 18.9807 4.22676 18.6784L10.9048 12L4.22676 5.32163C3.9519 5.04678 3.92691 4.61667 4.1518 4.31359L4.22676 4.22676L4.1518 4.31359Z" fill="currentColor"></path>
+    </svg>
+	    </div>
+</div>            </div>
+
+			
+            <!-- Reward -->
+
+            <div class="fkcart-reward-product-wrap">
+				
+				                <!-- END: Reward -->
+
+                <!-- Body -->
+                <div class="fkcart-slider-body">
+                    <!-- Cart Zero State -->
+					    <div class="fkcart-zero-state ">
+        <div class="fkcart-icon-cart">
+			<svg data-icon="icon-checkout" width="56" height="56" viewBox="0 0 24 24" class="fkcart-icon-checkout" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M2 2.71411C2 2.31972 2.31972 2 2.71411 2H3.34019C4.37842 2 4.97454 2.67566 5.31984 3.34917C5.55645 3.8107 5.72685 4.37375 5.86764 4.86133H20.5709C21.5186 4.86133 22.2035 5.7674 21.945 6.67914L19.809 14.2123C19.4606 15.4413 18.3384 16.2896 17.0609 16.2896H9.80665C8.51866 16.2896 7.39 15.4276 7.05095 14.185L6.13344 10.8225C6.12779 10.8073 6.12262 10.7917 6.11795 10.7758L4.64782 5.78023C4.59738 5.61449 4.55096 5.45386 4.50614 5.29878C4.36354 4.80529 4.23716 4.36794 4.04891 4.00075C3.82131 3.55681 3.61232 3.42822 3.34019 3.42822H2.71411C2.31972 3.42822 2 3.1085 2 2.71411ZM7.49529 10.3874L8.4288 13.8091C8.59832 14.4304 9.16266 14.8613 9.80665 14.8613H17.0609C17.6997 14.8613 18.2608 14.4372 18.435 13.8227L20.5709 6.28955H6.28975L7.49529 10.3874ZM12.0017 19.8577C12.0017 21.0408 11.0426 22 9.85941 22C8.67623 22 7.71708 21.0408 7.71708 19.8577C7.71708 18.6745 8.67623 17.7153 9.85941 17.7153C11.0426 17.7153 12.0017 18.6745 12.0017 19.8577ZM10.5735 19.8577C10.5735 19.4633 10.2538 19.1436 9.85941 19.1436C9.46502 19.1436 9.1453 19.4633 9.1453 19.8577C9.1453 20.2521 9.46502 20.5718 9.85941 20.5718C10.2538 20.5718 10.5735 20.2521 10.5735 19.8577ZM19.1429 19.8577C19.1429 21.0408 18.1837 22 17.0005 22C15.8173 22 14.8582 21.0408 14.8582 19.8577C14.8582 18.6745 15.8173 17.7153 17.0005 17.7153C18.1837 17.7153 19.1429 18.6745 19.1429 19.8577ZM17.7146 19.8577C17.7146 19.4633 17.3949 19.1436 17.0005 19.1436C16.6061 19.1436 16.2864 19.4633 16.2864 19.8577C16.2864 20.2521 16.6061 20.5718 17.0005 20.5718C17.3949 20.5718 17.7146 20.2521 17.7146 19.8577Z" fill="currentColor"></path>
+</svg>        </div>
+        <div class="fkcart-zero-state-title">Your Cart is Empty</div>
+        <div class="fkcart-zero-state-text">Fill your cart with amazing items</div>
+        <a href="#" class="fkcart-primary-button fkcart-shop-button fkcart-modal-close">Shop Now</a>
+    </div>
+                    <!-- END: Cart Zero State -->
+
+                    <!-- START: Cart Items -->
+					    <div class="fkcart-item-wrap fkcart-pt-16">
+		    </div>
+                    <!-- END: Cart Items -->
+
+                    <!-- START: Upsell Style -->
+															                    <!-- END: Upsell Style -->
+                </div>
+				            </div>
+            <!-- Slider Footer -->
+            <div class="fkcart-slider-footer fkcart-pb-16">
+
+                <!-- START: Coupon Area -->
+				                <!-- END: Coupon Area -->
+
+
+                <!-- START: Special Addon -->
+				
+                <div class="fkcart_summary_cta">
+                    <!-- START: Order Summary -->
+					<div class="fkcart-order-summary fkcart-panel ">
+    <div class="fkcart-order-summary-container">
+        <div class="fkcart-summary-line-item fkcart-subtotal-wrap ">
+            <div class="fkcart-summary-text"><strong>Подытог</strong></div>
+            <div class="fkcart-summary-amount"><strong><span class="woocommerce-Price-amount amount">0&nbsp;<span class="woocommerce-Price-currencySymbol">€</span></span></strong></div>
+        </div>
+		            <div class="fkcart-summary-line-item">
+                <div class="fkcart-summary-text fkcart-shipping-tax-calculation-text">Shipping &amp; taxes may be re-calculated at checkout</div>
+            </div>
+		
+		        <div class="fkcart-text-light"></div>
+    </div>
+</div>
+                    <!-- END: Order Summary -->
+
+                    <!-- START: CTA -->
+					                    <!-- END: CTA -->
+                </div>
+
+                <!-- START: Upsell Style -->
+                <div class="fkcart-below-checkout-upsell">
+										                </div>
+
+				                    <div id="fkcart-popup" class="fkcart-popup">
+                        <div class="fkcart-popup-content">
+                            <div class="fkcart-title-wrap">
+								<span class="fkcart-close">
+									    <svg width="20" height="20" viewBox="0 0 24 24" class="fkcart-icon-close" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M4.1518 4.31359L4.22676 4.22676C4.50161 3.9519 4.93172 3.92691 5.2348 4.1518L5.32163 4.22676L12 10.9048L18.6784 4.22676C18.9807 3.92441 19.4709 3.92441 19.7732 4.22676C20.0756 4.5291 20.0756 5.01929 19.7732 5.32163L13.0952 12L19.7732 18.6784C20.0481 18.9532 20.0731 19.3833 19.8482 19.6864L19.7732 19.7732C19.4984 20.0481 19.0683 20.0731 18.7652 19.8482L18.6784 19.7732L12 13.0952L5.32163 19.7732C5.01929 20.0756 4.5291 20.0756 4.22676 19.7732C3.92441 19.4709 3.92441 18.9807 4.22676 18.6784L10.9048 12L4.22676 5.32163C3.9519 5.04678 3.92691 4.61667 4.1518 4.31359L4.22676 4.22676L4.1518 4.31359Z" fill="currentColor"></path>
+    </svg>
+									</span>
+                            </div>
+
+                            <div class="fkcart-item-meta-content"></div>
+                        </div>
+                    </div>
+				            </div>
+        </div>
+
+        <!-- START: Quick View -->
+		<div class="fkcart-quick-view-drawer">
+    <div class="fkcart-drawer-header">
+        <div class="fkcart-drawer-header-panel fkcart-panel">
+            <div class="fkcart-drawer-header-heading">Выберите параметры</div>
+            <div class="fkcart-quick-view-close">
+				    <svg width="20" height="20" viewBox="0 0 24 24" class="fkcart-icon-close" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M4.1518 4.31359L4.22676 4.22676C4.50161 3.9519 4.93172 3.92691 5.2348 4.1518L5.32163 4.22676L12 10.9048L18.6784 4.22676C18.9807 3.92441 19.4709 3.92441 19.7732 4.22676C20.0756 4.5291 20.0756 5.01929 19.7732 5.32163L13.0952 12L19.7732 18.6784C20.0481 18.9532 20.0731 19.3833 19.8482 19.6864L19.7732 19.7732C19.4984 20.0481 19.0683 20.0731 18.7652 19.8482L18.6784 19.7732L12 13.0952L5.32163 19.7732C5.01929 20.0756 4.5291 20.0756 4.22676 19.7732C3.92441 19.4709 3.92441 18.9807 4.22676 18.6784L10.9048 12L4.22676 5.32163C3.9519 5.04678 3.92691 4.61667 4.1518 4.31359L4.22676 4.22676L4.1518 4.31359Z" fill="currentColor"></path>
+    </svg>
+	            </div>
+        </div>
+    </div>
+    <div class="fkcart-drawer-content">
+    </div>
+    <!-- HTML FOR SHIMMER/LOADING EFFECT -->
+    <div class="fkcart-drawer-shimmer">
+        <div class="fkcart-product-meta fkcart-pt-20 fkcart-panel">
+            <div class="fkcart-image-wrapper fkcart-shimmer" style="width: 60%; padding-bottom: 40%; border-radius: 6px; margin: 0 auto; display: block;">
+            </div>
+            <div class="fkcart-item-title fkcart-shimmer" style="width: 40%;height:18px;display: block;margin: 16px auto 24px;"></div>
+        </div>
+        <div class="fkcart-product-form-wrap">
+            <div class="fkcart-product-form-fields fkcart-panel">
+                <div class="fkcart-product-form-field">
+                    <div class="fkcart-input-label fkcart-shimmer" style="width:60px;height:18px"></div>
+                    <div class="fkcart-form-input-wrap fkcart-shimmer" style="width:182px;height:24px">
+                    </div>
+                </div>
+                <div class="fkcart-product-form-field">
+                    <div class="fkcart-input-label fkcart-shimmer" style="width:60px;height:18px"></div>
+                    <div class="fkcart-form-input-wrap fkcart-shimmer" style="width:182px;height:24px">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="fkcart-desc-title fkcart-panel fkcart-shimmer" style="width:120px;height:18px;margin: 24px 16px 10px;"></div>
+        <div class="fkcart-product-description fkcart-panel fkcart-p-10 fkcart-shimmer" style="height:80px;margin:0 16px"></div>
+        <div class="fkcart-view-link-wrap fkcart-panel fkcart-shimmer" style="width:70px;height:18px;margin: 16px;"></div>
+        <div class="fkcart-product-form-button fkcart-panel">
+            <div class="fkcart-shimmer" style="width:100%;height:44px;    margin-top: 10px;"></div>
+        </div>
+    </div>
+</div>
+        <!-- END: Quick View -->
+
+        <!-- Notice -->
+        <div class="fkcart-slider-notices fkcart-hide-notice" id="fkcart-notice" data-status="error">
+            <div class="fkcart-notice-icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2ZM12 15.125C11.4822 15.125 11.0625 15.5447 11.0625 16.0625C11.0625 16.5803 11.4822 17 12 17C12.5178 17 12.9375 16.5803 12.9375 16.0625C12.9375 15.5447 12.5178 15.125 12 15.125ZM12 7C11.6932 7 11.438 7.22109 11.3851 7.51266L11.375 7.625V13.25L11.3851 13.3623C11.438 13.6539 11.6932 13.875 12 13.875C12.3068 13.875 12.562 13.6539 12.6149 13.3623L12.625 13.25V7.625L12.6149 7.51266C12.562 7.22109 12.3068 7 12 7Z" fill="currentColor"></path>
+                </svg>
+            </div>
+            <div class="fkcart-notice-text"></div>
+        </div>
+
+        <!-- Modal Shadow -->
+        <div class="fkcart-modal-backdrop"></div>
+    </div>
+
+            </div>
+
+
+			
+<div class="widget_shopping_cart_live_region screen-reader-text" role="status"></div></body></html>
